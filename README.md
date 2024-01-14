@@ -42,8 +42,8 @@ Ensure you have the following installed:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/penetration-testing-tool.git
-cd penetration-testing-tool
+git clone https://github.com/G4G4N/AutoPTT.git
+cd AutoPTT
 pip install -r requirements.txt
 ```
 
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-python penetration_testing_tool.py
+python aptt.py
 ```
 
 Authenticate with your username and password, then enter the IP range for network scanning. Review the results and save findings to the example API.
