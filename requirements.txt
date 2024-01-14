@@ -1,0 +1,5 @@
+bcrypt==3.2.0
+nmap==0.7.0
+PyJWT==2.2.0
+requests==2.26.0
+tk==0.1.0  # Make sure to replace with the actual version of tk that your Python environment uses
